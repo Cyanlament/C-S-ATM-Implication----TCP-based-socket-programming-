@@ -1,6 +1,6 @@
 # 网络 ATM 项目
 
-这是一个学生作业仓库，包含两个版本：
+这是一个拟猜仓库，包含两个版本：
 
 - Rust 版本：rust-atm/
 - TypeScript 版本：ts-atm/
