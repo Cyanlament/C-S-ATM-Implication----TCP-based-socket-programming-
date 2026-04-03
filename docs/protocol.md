@@ -1,7 +1,4 @@
-# RFC-20232023 ATM Protocol (from lecture 08 PPT)
-
-This document is transcribed from the teacher PPT (slides 1-3 screenshots) and used as the single source of truth for both Rust and TypeScript implementations.
-
+# RFC-20232023 ATM Protocol
 ## Transport
 
 - TCP socket
@@ -65,16 +62,3 @@ This document is transcribed from the teacher PPT (slides 1-3 screenshots) and u
 
 5. Client sends `BYE`
 - Server replies `BYE` and closes session.
-
-## Logging Requirements (from PPT slide 4)
-
-Server must:
-- Read data file
-- Record logs for all exceptions
-- Record logs for all withdrawal operations
-
-Client side:
-- Must provide GUI
-
-Server side:
-- GUI is not required
