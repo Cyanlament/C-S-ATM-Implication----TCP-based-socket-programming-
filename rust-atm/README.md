@@ -1,4 +1,4 @@
-# Rust ATM 作业版
+# Rust ATM
 
 这版是 Rust 实现，包含：
 
@@ -31,7 +31,7 @@ cargo run --bin test_case
 - 取款日志：logs/withdraw.log
 - 运行日志：logs/server.log
 
-## 打包给同学
+## 打包
 
 在仓库根目录执行：
 
@@ -42,3 +42,5 @@ powershell -ExecutionPolicy Bypass -File scripts/package-rust.ps1
 packages/rust-atm-portable-win64.zip
 
 解压后双击 start-server.bat 和 start-client.bat 就能用。
+
+以上。
