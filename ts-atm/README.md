@@ -1,6 +1,6 @@
-# TypeScript ATM 作业版（GUI 美化版）
+# TypeScript ATM
 
-Electron 做客户端，界面更好看，演示也更丝滑。我讨厌qt
+Electron 做客户端，界面更好看，演示也更丝滑。我讨厌qt。
 
 ## 快速运行
 
